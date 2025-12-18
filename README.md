@@ -48,3 +48,9 @@ The program produces the following outputs:
    Each value represents the GCD between a vulnerable modulus and the product of all other
    moduli in `input.moduli`. The values are written in hexadecimal format, one per line.
 
+## Reference
+This project is based on and derived from the materials provided at  
+https://factorable.net/resources.html.
+
+The original implementation has been modified and extended in this project.
+
